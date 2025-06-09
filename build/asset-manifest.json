@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muktha-pf/static/css/main.e6c13ad2.css",
+    "main.js": "/muktha-pf/static/js/main.b16b78ef.js",
+    "static/js/453.769d6a95.chunk.js": "/muktha-pf/static/js/453.769d6a95.chunk.js",
+    "index.html": "/muktha-pf/index.html",
+    "main.e6c13ad2.css.map": "/muktha-pf/static/css/main.e6c13ad2.css.map",
+    "main.b16b78ef.js.map": "/muktha-pf/static/js/main.b16b78ef.js.map",
+    "453.769d6a95.chunk.js.map": "/muktha-pf/static/js/453.769d6a95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b16b78ef.js"
+  ]
+}
